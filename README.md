@@ -25,7 +25,7 @@
 ## 📫 Let's Connect
 - Email: [kyulikelvin6@gmail.com](mailto:kyulikelvin6@gmail.com)
 - LinkedIn: [linkedin.com/in/your-link](#) <!-- add yours -->
-- GitHub: [github.com/KevinKyuli](https://github.com/KevinKyuli)
+- GitHub: [github.com/KevinKyuli](https://github.com/Cackev)
 
 ---
 
