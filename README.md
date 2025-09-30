@@ -63,7 +63,7 @@
 ## 📫 Let's Connect
 
 - 📧 Email: [kyulikelvin6@gmail.com](mailto:kyulikelvin6@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
+- 💼 LinkedIn: [https://www.linkedin.com/in/kevin-mutie-b7410234a/](https://www.linkedin.com/in/kevin-mutie-b7410234a/)
 - 🐙 GitHub: [Cackev](https://github.com/Cackev)
 
 ---
